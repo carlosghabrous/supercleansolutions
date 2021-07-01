@@ -4,6 +4,7 @@ weight: 3
 header_menu: true
 ---
 
+Aquí ponéis una foto vuestra y del equipo, por ejemplo.
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 ##### Professionel Experience
